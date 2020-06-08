@@ -20,6 +20,15 @@ namespace Codewar3
                 list.Add(i);
             return list.ToArray();
         }
+        public static int[] ReverseSeq3(int n)
+        {
+            int[] ar = new int[n];
+            for (int i = 0; i < n; i++)
+            {
+                ar[i] = n - i;
+            }
+            return ar;
+        }
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
