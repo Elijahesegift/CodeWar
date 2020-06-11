@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29806.167
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codewar", "Codewar\Codewar.csproj", "{9BBD266C-A7DE-4376-A5F3-2F80FF13FB58}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Codewar", "Codewar\Codewar.csproj", "{9BBD266C-A7DE-4376-A5F3-2F80FF13FB58}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codewar2", "Codewar2\Codewar2.csproj", "{A1D88C42-6E03-43FB-8D75-707AD90A9957}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Codewar2", "Codewar2\Codewar2.csproj", "{A1D88C42-6E03-43FB-8D75-707AD90A9957}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codewar3", "Codewar3\Codewar3.csproj", "{710FF6B5-1AB3-4D76-BEB4-F6A0D2DF7E95}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Codewar3", "Codewar3\Codewar3.csproj", "{710FF6B5-1AB3-4D76-BEB4-F6A0D2DF7E95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codewar4", "Codewar4\Codewar4.csproj", "{62D29CF2-12C7-4D44-80FD-357D0121600E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{710FF6B5-1AB3-4D76-BEB4-F6A0D2DF7E95}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{710FF6B5-1AB3-4D76-BEB4-F6A0D2DF7E95}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{710FF6B5-1AB3-4D76-BEB4-F6A0D2DF7E95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62D29CF2-12C7-4D44-80FD-357D0121600E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62D29CF2-12C7-4D44-80FD-357D0121600E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62D29CF2-12C7-4D44-80FD-357D0121600E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62D29CF2-12C7-4D44-80FD-357D0121600E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
