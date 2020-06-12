@@ -9,7 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Codewar2", "Codewar2\Codewa
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Codewar3", "Codewar3\Codewar3.csproj", "{710FF6B5-1AB3-4D76-BEB4-F6A0D2DF7E95}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codewar4", "Codewar4\Codewar4.csproj", "{62D29CF2-12C7-4D44-80FD-357D0121600E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Codewar4", "Codewar4\Codewar4.csproj", "{62D29CF2-12C7-4D44-80FD-357D0121600E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codewar5", "Codewar5\Codewar5.csproj", "{677ED39A-C0CF-4BC5-873D-89CDF9BD30B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codewar5Test", "Codewar5Test\Codewar5Test.csproj", "{AA1A64A2-FE86-41BB-894E-7D614595B7F4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{62D29CF2-12C7-4D44-80FD-357D0121600E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{62D29CF2-12C7-4D44-80FD-357D0121600E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{62D29CF2-12C7-4D44-80FD-357D0121600E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{677ED39A-C0CF-4BC5-873D-89CDF9BD30B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{677ED39A-C0CF-4BC5-873D-89CDF9BD30B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{677ED39A-C0CF-4BC5-873D-89CDF9BD30B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{677ED39A-C0CF-4BC5-873D-89CDF9BD30B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA1A64A2-FE86-41BB-894E-7D614595B7F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA1A64A2-FE86-41BB-894E-7D614595B7F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA1A64A2-FE86-41BB-894E-7D614595B7F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA1A64A2-FE86-41BB-894E-7D614595B7F4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
