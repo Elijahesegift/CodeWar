@@ -7,7 +7,7 @@ namespace Codewar5
     [TestFixture]
     public class KataTests
     {
-        [Test]
+        [Test] 
         public void CorrectTests()
         {
             Assert.AreEqual("LONDON", Codewar5.Correct("L0ND0N"));
