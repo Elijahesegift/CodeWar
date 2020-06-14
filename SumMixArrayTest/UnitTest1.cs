@@ -2,6 +2,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 using NUnit.Framework;
 using System;
 using SumMixArray;
+using Assert = NUnit.Framework.Assert;
 
 namespace SumMixArray
 {
