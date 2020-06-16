@@ -23,6 +23,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestString", "LongestStr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestStringTest", "LongestStringTest\LongestStringTest.csproj", "{F9CCDF8B-9D2B-4F64-84DD-36B3EFEB3DA8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FineSum", "FineSum\FineSum.csproj", "{1B6970BC-F32D-4A78-B039-A1672B42F8D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FineSumTest", "FineSumTest\FineSumTest.csproj", "{69F524DD-4AD8-4672-865B-F88464E06F5A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +73,14 @@ Global
 		{F9CCDF8B-9D2B-4F64-84DD-36B3EFEB3DA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F9CCDF8B-9D2B-4F64-84DD-36B3EFEB3DA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F9CCDF8B-9D2B-4F64-84DD-36B3EFEB3DA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B6970BC-F32D-4A78-B039-A1672B42F8D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B6970BC-F32D-4A78-B039-A1672B42F8D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B6970BC-F32D-4A78-B039-A1672B42F8D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B6970BC-F32D-4A78-B039-A1672B42F8D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69F524DD-4AD8-4672-865B-F88464E06F5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69F524DD-4AD8-4672-865B-F88464E06F5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69F524DD-4AD8-4672-865B-F88464E06F5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69F524DD-4AD8-4672-865B-F88464E06F5A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
