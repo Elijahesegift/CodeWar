@@ -15,17 +15,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Codewar5", "Codewar5\Codewa
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Codewar5Test", "Codewar5Test\Codewar5Test.csproj", "{AA1A64A2-FE86-41BB-894E-7D614595B7F4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumMixArray", "SumMixArray\SumMixArray.csproj", "{0E0A0B3C-9408-41D3-B3A1-8665B4FF2EF1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SumMixArray", "SumMixArray\SumMixArray.csproj", "{0E0A0B3C-9408-41D3-B3A1-8665B4FF2EF1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumMixArrayTest", "SumMixArrayTest\SumMixArrayTest.csproj", "{EBF34DAB-2921-4E77-9A5D-83124DC974FB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SumMixArrayTest", "SumMixArrayTest\SumMixArrayTest.csproj", "{EBF34DAB-2921-4E77-9A5D-83124DC974FB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestString", "LongestString\LongestString.csproj", "{37EEC960-45EE-4198-AF89-810A1197C234}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LongestString", "LongestString\LongestString.csproj", "{37EEC960-45EE-4198-AF89-810A1197C234}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestStringTest", "LongestStringTest\LongestStringTest.csproj", "{F9CCDF8B-9D2B-4F64-84DD-36B3EFEB3DA8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LongestStringTest", "LongestStringTest\LongestStringTest.csproj", "{F9CCDF8B-9D2B-4F64-84DD-36B3EFEB3DA8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FineSum", "FineSum\FineSum.csproj", "{1B6970BC-F32D-4A78-B039-A1672B42F8D8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FineSum", "FineSum\FineSum.csproj", "{1B6970BC-F32D-4A78-B039-A1672B42F8D8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FineSumTest", "FineSumTest\FineSumTest.csproj", "{69F524DD-4AD8-4672-865B-F88464E06F5A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FineSumTest", "FineSumTest\FineSumTest.csproj", "{69F524DD-4AD8-4672-865B-F88464E06F5A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseWords", "ReverseWords\ReverseWords.csproj", "{3CE418CC-5B8C-4EA1-9E45-2C79F6781FA6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{69F524DD-4AD8-4672-865B-F88464E06F5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{69F524DD-4AD8-4672-865B-F88464E06F5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{69F524DD-4AD8-4672-865B-F88464E06F5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CE418CC-5B8C-4EA1-9E45-2C79F6781FA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CE418CC-5B8C-4EA1-9E45-2C79F6781FA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CE418CC-5B8C-4EA1-9E45-2C79F6781FA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CE418CC-5B8C-4EA1-9E45-2C79F6781FA6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
