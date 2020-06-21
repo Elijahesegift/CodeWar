@@ -29,6 +29,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FineSumTest", "FineSumTest\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseWords", "ReverseWords\ReverseWords.csproj", "{3CE418CC-5B8C-4EA1-9E45-2C79F6781FA6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multiplier", "Multiplier\Multiplier.csproj", "{B691B9DE-FF3D-4B02-A718-9578A54CB5A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiplierTest", "MultiplierTest\MultiplierTest.csproj", "{DE386224-85F5-4CBD-94E3-67AABEE9F7FC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +91,14 @@ Global
 		{3CE418CC-5B8C-4EA1-9E45-2C79F6781FA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3CE418CC-5B8C-4EA1-9E45-2C79F6781FA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3CE418CC-5B8C-4EA1-9E45-2C79F6781FA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B691B9DE-FF3D-4B02-A718-9578A54CB5A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B691B9DE-FF3D-4B02-A718-9578A54CB5A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B691B9DE-FF3D-4B02-A718-9578A54CB5A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B691B9DE-FF3D-4B02-A718-9578A54CB5A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE386224-85F5-4CBD-94E3-67AABEE9F7FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE386224-85F5-4CBD-94E3-67AABEE9F7FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE386224-85F5-4CBD-94E3-67AABEE9F7FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE386224-85F5-4CBD-94E3-67AABEE9F7FC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
